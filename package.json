@@ -10,7 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "react": "^15.5.4",
-    "react-dom": "^15.5.4"
+    "react-dom": "^15.5.4",
+    "react-router-dom": "^4.0.0"
   },
   "devDependencies": {
     "babel-core": "^6.24.1",
@@ -22,5 +23,13 @@
     "webpack": "^3.4.0",
     "webpack-dev-server": "^2.5.0"
   },
-  "description": ""
+  "description": "React Help Queue",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carrieschmid/my-first-react.git"
+  },
+  "bugs": {
+    "url": "https://github.com/carrieschmid/my-first-react/issues"
+  },
+  "homepage": "https://github.com/carrieschmid/my-first-react#readme"
 }
